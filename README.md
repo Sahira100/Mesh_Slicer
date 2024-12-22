@@ -2,7 +2,12 @@
 
 A Unity plugin that enables real-time mesh slicing of 3D objects. This tool allows you to dynamically cut 3D meshes along arbitrary planes while maintaining mesh integrity, UV mapping, and proper face generation.
 
-[Insert 3 horizontally aligned screenshots showing the slicing in action]
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <img src="Assets/UI/Screenshot%202024-12-22%20115316.png" alt="Initial Object" width="250"/>
+    <img src="Assets/UI/Screenshot 2024-12-22 115423.png" alt="Slicing Process" width="250"/>
+  </div>
+</div>
 
 ## Features
 
